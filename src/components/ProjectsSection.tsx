@@ -8,7 +8,7 @@ const projects = [
   {
     title: "HaramainQu",
     subtitle: "Umrah & Hajj Travel Microservices Application",
-    period: "April 2026 - Present",
+    period: "April 2026",
     description:
       "Aplikasi mobile komprehensif menggunakan Flutter sebagai asisten digital bagi jamaah selama ibadah di Tanah Suci.",
     highlights: [
@@ -20,13 +20,13 @@ const projects = [
     color: "from-indigo-500/20 to-purple-500/20",
     borderColor: "border-indigo-500/30",
     iconColor: "text-indigo-400",
-    status: "In Progress",
+    status: "Completed",
     image: "/haramainqu.jpeg",
   },
   {
     title: "Haramain Tour",
     subtitle: "Umrah & Hajj Travel Platform",
-    period: "April 2026 - Present",
+    period: "April 2026",
     description:
       "Platform manajemen perjalanan end-to-end dengan multi-step online registration flow (5 tahap).",
     highlights: [
@@ -39,7 +39,7 @@ const projects = [
     color: "from-emerald-500/20 to-teal-500/20",
     borderColor: "border-emerald-500/30",
     iconColor: "text-emerald-400",
-    status: "In Progress",
+    status: "Completed",
     image: "/haramain_tour.png",
   },
   {
