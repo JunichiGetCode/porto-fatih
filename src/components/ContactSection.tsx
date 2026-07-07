@@ -141,7 +141,7 @@ export default function ContactSection() {
                     </svg>
                   </a>
                   <a
-                    href="https://linkedin.com/in/fatihrahman"
+                    href="https://www.linkedin.com/in/fatih-rahman/"
                     target="_blank"
                     rel="noopener noreferrer"
                     id="social-linkedin"
